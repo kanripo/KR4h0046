@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 文章正宗
-#+DATE: 2020-03-31 11:42:24.285506
+#+DATE: 2020-03-31 11:42:24.888673
 #+PROPERTY: ID KR4h0046
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR4h0046_WYG_000-1a>¶
 　　欽定四庫全書　　　　　集部八¶
@@ -24,7 +24,7 @@
 嗟予老矣君方少好向師門溯指歸其宗㫖¶
 具於是矣然克莊後村詩話又曰文章正宗¶
 初萌芽以詩歌一門屬予編類且約以世教¶
-民&KR0212;為主如仙釋閨情宫苑之類皆勿取余¶
+民彛為主如仙釋閨情宫苑之類皆勿取余¶
 取漢武帝秋風詞西山曰文中子亦以此詞¶
 <pb:KR4h0046_WYG_000-2a>¶
 為悔心之萌豈其然乎意不欲収其嚴如此¶
